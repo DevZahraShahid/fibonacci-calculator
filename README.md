@@ -1,5 +1,5 @@
 # fibonacci-calculator
 
 - Worker
-- Server
-- Client
+- Server - Express Server
+- Client - React App
